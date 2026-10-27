@@ -1,6 +1,6 @@
 # RLEC
 
-<a href="https://arxiv.org/abs/2610.35059">< img src="https://img.shields.io/badge/arXiv-paper-b31b1b?logo=arxiv&logoColor=white" alt="Paper"></a >&nbsp;&nbsp;<a href="https://huggingface.co/yhx12/RLEC">< img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-ffc107" alt="Models"></a >
+<a href="https://arxiv.org/abs/2610.35059"><img src="https://img.shields.io/badge/arXiv-paper-b31b1b?logo=arxiv&logoColor=white" alt="Paper"></a>&nbsp;&nbsp;<a href="https://huggingface.co/yhx12/RLEC"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-ffc107" alt="Models"></a>
 
 RLEC (Reinforcement Learning with Explicit Confidence Targets) trains one language model to follow a confidence target specified in the prompt and directly decide whether to answer or abstain. It preserves target-dependent reward gaps by disabling within-group standard-deviation normalization, uses the stable reward family
 
